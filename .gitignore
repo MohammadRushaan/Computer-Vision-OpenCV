@@ -2,4 +2,16 @@ __pycache__/
 *.pyc
 scanned_output_*.jpg
 .vscode/
-.idea/
+.idea/*.dat 
+*.bz2 
+*.dat
+*.bz2
+*.png
+*.jpg
+*.dat
+*.bz2
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+.vscode/
