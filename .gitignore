@@ -1,17 +1,33 @@
+# Datasets (prevents pushing the 700MB+ data)
+kaggle_dogs_vs_cats/
+test_images/
+
+# Trained Models & Serialized Weights
+output/
+*.keras
+*.h5
+
+# Python Caches & Compiled Bytecode
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+nn_env/
+.env/
+env/
+
+# IDE / Editor Settings
+.vscode/
+.idea/
+
+# OS Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Compressed / Cache Artifacts
+*.bz2
+*.dat
 scanned_output_*.jpg
-.vscode/
-.idea/*.dat 
-*.bz2 
-*.dat
-*.bz2
-*.png
-*.jpg
-*.dat
-*.bz2
-*.png
-*.jpg
-*.jpeg
-__pycache__/
-.vscode/
