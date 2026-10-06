@@ -1,3 +1,6 @@
 dataset/ 
 *.pth 
+*.keras 
+*.pickle 
+*.png 
 __pycache__/
