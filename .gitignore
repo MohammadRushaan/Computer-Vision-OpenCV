@@ -30,4 +30,6 @@ desktop.ini
 # Compressed / Cache Artifacts
 *.bz2
 *.dat
-scanned_output_*.jpg
+scanned_output_*.jpg*.caffemodel 
+*.onnx 
+*.pt
